@@ -35,30 +35,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// setValueBtn.addEventListener('click', () => {
-//     const newValue = parseInt(setValueInput.value, 10);
-//     if (!isNaN(newValue)) {
-//         counter = newValue;
-//         updateCounter();
-//         document.getElementById('setValueInput').value = ''
-//     }
-
-// });
